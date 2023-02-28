@@ -12,11 +12,11 @@ A variety of data information can be displayed dynamically and in real time. Rig
 Based on free installable executable program: supports Windows, Linux, Mac and other operating systems; the program can be copied to the server without any other environmental dependencies; users can either view the program interface directly on the server or open and play it with a browser from a remote location.
 
 ## 4.Overall architecture design
-a. Front-end design based on the Echarts open source library, using the WebStorm editor.
-b. Back-end based on Java Web implementation, using the IDEA editor.
-c. Data transfer format: JSON.
-d. Data source type: currently using JSON file method , add Mybatis can support PostgreSQL, MySQL, Oracle, Microsoft SQL Server, SQLite , add POI can support Excel tables , etc. , you can also customize the HTTP API interface method .
-e. data update method: use http get polling method . In practice, you can also choose to monitor the back-end data update in real time, depending on the situation, real-time push to the front-end way.
+a. Front-end design based on the Echarts open source library, using the WebStorm editor.\n
+b. Back-end based on Java Web implementation, using the IDEA editor.\n
+c. Data transfer format: JSON.\n
+d. Data source type: currently using JSON file method , add Mybatis can support PostgreSQL, MySQL, Oracle, Microsoft SQL Server, SQLite , add POI can support Excel tables , etc. , you can also customize the HTTP API interface method .\n
+e. Data update method: use http get polling method . In practice, you can also choose to monitor the back-end data update in real time, depending on the situation, real-time push to the front-end way.
 
 ## 5.Development configuration & Code structure
 ### a.SpringBoot configuration
