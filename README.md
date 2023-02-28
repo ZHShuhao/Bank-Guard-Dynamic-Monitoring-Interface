@@ -2,7 +2,7 @@
 ## 1.Project Description
 ## The project is to create a dynamic real-time large screen supervision system for banks. The project is based on LED screen with 16:9 aspect ratio. Echarts + SpringBoot framework is used for development.This project focuses on building a quick project architecture with Sprint Boot and using Echarts to display front-end data charts. It helps banks to optimize the display of various asset data and business data of banks.
 
-## 【Note: Considering the project data security and privacy, all the data shown below are virtual data, only to show the project results】
+## Note:【Considering the project data security and privacy, all the data shown below are virtual data, only to show the project results】
 
 ## 2.Effect demonstration
 A variety of data information can be displayed dynamically and in real time. Right mouse button to change the theme style.
