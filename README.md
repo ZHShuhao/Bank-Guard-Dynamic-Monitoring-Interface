@@ -1,4 +1,4 @@
-# Dynamic-real-time-large-screen-bank-supervision-system-based-on-Echarts-SpringBoot
+# Bank Guard Dynamic Monitoring Interface![image](https://github.com/ZHShuhao/Bank-Guard-Dynamic-Monitoring-Interface/assets/89632568/82d26e01-149a-461a-b1c0-2e25ce6a9b20)
 ## 1.Project Description
 ## The project is to create a dynamic real-time large screen supervision system for banks. The project is based on LED screen with 16:9 aspect ratio. Echarts + SpringBoot framework is used for development.This project focuses on building a quick project architecture with Sprint Boot and using Echarts to display front-end data charts. It helps banks to optimize the display of various asset data and business data of banks.
 
